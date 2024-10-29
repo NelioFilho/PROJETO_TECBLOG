@@ -31,3 +31,40 @@ header h1{
 .Blog{
     color: white;
 }
+
+main{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 1px;
+    background-color: #EEFCFD;
+}
+
+.Titulo{
+    line-height: 0.5;
+    color:#ffcc00;
+}
+
+.data{
+    font-size: small;
+    font-weight: 200;
+    line-height: 0.5;
+    color: #1a1400;
+}
+
+main p{
+    text-align: left;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid;
+  
+}
+
+main img {
+    max-width: 100%; /* Imagem não ultrapassa a largura disponível */
+    height: auto; /* Mantém a proporção */
+    display: block; /* Evita espaços em branco abaixo da imagem */
+    margin: 10px 0; /* Espaço ao redor da imagem */
+}
+
+
